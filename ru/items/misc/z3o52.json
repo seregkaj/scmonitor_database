@@ -1,9 +1,8 @@
 {
-  "id": "9mgw",
+  "id": "z3o52",
   "category": "misc",
   "name": {
     "type": "translation",
-    "key": "item.misc.charcoal.name",
     "args": {},
     "lines": {
       "ru": "Боевой набор",
