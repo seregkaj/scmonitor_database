@@ -3,7 +3,6 @@
   "category": "artefact/other_arts",
   "name": {
     "type": "translation",
-    "key": "item.misc.chips.name",
     "args": {},
     "lines": {
       "ru": "Протоартефакт",
