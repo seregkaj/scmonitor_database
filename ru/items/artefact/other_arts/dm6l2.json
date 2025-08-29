@@ -1,6 +1,6 @@
 {
   "id": "dm6l2",
-  "category": "misc",
+  "category": "artefact/other_arts",
   "name": {
     "type": "translation",
     "key": "item.misc.chips.name",
@@ -64,10 +64,10 @@
           },
           "value": {
             "type": "translation",
-            "key": "core.handbook.category.undefined",
+            "key": "core.handbook.category.other_arts",
             "args": {},
             "lines": {
-              "ru": "Прочее",
+              "ru": "Прочие",
               "en": "Other",
               "es": "Otros",
               "fr": "Autre"
