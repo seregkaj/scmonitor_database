@@ -7,9 +7,9 @@
     "args": {},
     "lines": {
       "ru": "Протоартефакт",
-      "en": "Splinters",
-      "es": "Astillas",
-      "fr": "Éclats"
+      "en": "Protoartifact",
+      "es": "Protoartefact",
+      "fr": "Protoartéfact"
     }
   },
   "color": "RANK_NEWBIE",
@@ -155,10 +155,10 @@
         "key": "item.misc.chips.additional_stats_tip",
         "args": {},
         "lines": {
-          "ru": "Россыпь мелкой древесины, которая так и норовит поставить занозу.",
-          "en": "Scatter of small wood chips that are just waiting to splinter.",
-          "es": "Dispersión de virutas de madera a punto de astillarse.",
-          "fr": "Des éclats de bois éparpillés, prêts à se fendre."
+          "ru": "Оболочка артефакта, не накопившего достаточное количество аномальной энергии для того, чтобы быть артефактом какой‑то конкретной аномалии. При взаимодействии с уже сформировавшимся полем восстанавливает его целостность и способен сохранять заряд.",
+          "en": "The shell of an artifact that has not accumulated enough abnormal energy to be an artifact of a particular anomaly. When interacting with an already formed field, it restores its integrity and is able to retain its charge.",
+          "es": "La cáscara de un artefacto que no ha acumulado suficiente energía anómala para ser un artefacto de alguna anomalía en particular. Cuando interactúa con un campo ya formado, restaura su integridad y es capaz de mantener la carga.",
+          "fr": "La coquille d'un artefact qui n'a pas accumulé suffisamment d'énergie anormale pour être un artefact d'une anomalie particulière. Lors de l'interaction avec le champ déjà formé, il restaure son intégrité et est capable de conserver la charge."
         }
       }
     },
