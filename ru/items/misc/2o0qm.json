@@ -1,0 +1,112 @@
+{
+  "id": "2o0qm",
+  "category": "misc",
+  "name": {
+    "type": "translation",
+    "key": "item.misc.chips.name",
+    "args": {},
+    "lines": {
+      "ru": "Набор компонентов оружия (Ветеран)",
+      "en": "A set of weapon components (Veteran)",
+      "es": "Conjunto de componentes de armas (Veterano)",
+      "fr": "Ensemble de composants d'armes (Vétéran)"
+    }
+  },
+  "color": "RANK_NEWBIE",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.veteran",
+            "args": {},
+            "lines": {
+              "ru": "Ветеран",
+              "en": "Picklock",
+              "es": "Novato",
+              "fr": "Débutant"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.other_arts",
+            "args": {},
+            "lines": {
+              "ru": "Прочие",
+              "en": "Other",
+              "es": "Otros",
+              "fr": "Autre"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids"
+            }
+          },
+          "value": 0.2
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.misc.chips.additional_stats_tip",
+        "args": {},
+        "lines": {
+          "ru": "Оболочка артефакта, не накопившего достаточное количество аномальной энергии для того, чтобы быть артефактом какой‑то конкретной аномалии. При взаимодействии с уже сформировавшимся полем восстанавливает его целостность и способен сохранять заряд.",
+          "en": "The shell of an artifact that has not accumulated enough abnormal energy to be an artifact of a particular anomaly. When interacting with an already formed field, it restores its integrity and is able to retain its charge.",
+          "es": "La cáscara de un artefacto que no ha acumulado suficiente energía anómala para ser un artefacto de alguna anomalía en particular. Cuando interactúa con un campo ya formado, restaura su integridad y es capaz de mantener la carga.",
+          "fr": "La coquille d'un artefact qui n'a pas accumulé suffisamment d'énergie anormale pour être un artefact d'une anomalie particulière. Lors de l'interaction avec le champ déjà formé, il restaure son intégrité et est capable de conserver la charge."
+        }
+      }
+    }
+  ]
+}
