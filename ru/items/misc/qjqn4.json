@@ -1,0 +1,122 @@
+{
+  "id": "qjqn4",
+  "category": "misc",
+  "name": {
+    "type": "translation",
+    "args": {},
+    "lines": {
+      "ru": "Голова сильной бестии",
+      "en": "The head of a strong beast",
+      "es": "La cabeza de una bestia fuerte",
+      "fr": "La tête d'une bête forte"
+    }
+  },
+  "color": "RANK_PICKLOCK",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.picklock",
+            "args": {},
+            "lines": {
+              "ru": "Отмычка",
+              "en": "Picklock",
+              "es": "Ratero",
+              "fr": "Crocheteur"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.undefined",
+            "args": {},
+            "lines": {
+              "ru": "Прочее",
+              "en": "Other",
+              "es": "Otros",
+              "fr": "Autre"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "args": {},
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids"
+            }
+          },
+          "value": 6.0,
+          "formatted": {
+            "value": {
+              "ru": "6 кг",
+              "en": "6 kg",
+              "es": "6 kg",
+              "fr": "6 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.misc.charcoal.additional_stats_tip",
+        "args": {},
+        "lines": {
+          "ru": "Из голов бестий обычно делают чучела, но иногда с большой земли поступают заказы на образцы для изучения – интерес представляет дублированный мозг, который хоть и недоразвит, но в случае критических повреждений способен принять на себя управление всем её телом.",
+          "en": "From the heads of beasts usually make stuffed, but sometimes from a large land receive orders for samples for study – of interest is the duplicate brain, which, although underdeveloped, but in case of critical injuries is able to take control of its entire body.",
+          "es": "De las cabezas de las bestias generalmente hacen relleno, pero a veces de una tierra grande reciben órdenes de muestras para estudio – de interés es el cerebro duplicado, que, aunque subdesarrollado, pero en caso de lesiones críticas es capaz de tomar control de todo su cuerpo.",
+          "fr": "De la tête des bêtes font généralement farci, mais parfois d'une grande terre reçoivent des ordres d'échantillons pour l'étude – d'intérêt est le double cerveau, qui, bien que sous-développé, mais en cas de blessures critiques est capable de prendre le contrôle de son corps entier."
+        }
+      }
+    }
+  ]
+}

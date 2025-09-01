@@ -1,0 +1,122 @@
+{
+  "id": "dmyg9",
+  "category": "misc",
+  "name": {
+    "type": "translation",
+    "key": "item.misc.chips.name",
+    "args": {},
+    "lines": {
+      "ru": "Набор компонентов оружия (Сталкер)",
+      "en": "A set of weapon components (Stalker)",
+      "es": "Conjunto de componentes de armas (Stalker)",
+      "fr": "Ensemble de composants d'armes (Stalker)"
+    }
+  },
+  "color": "RANK_NEWBIE",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.stalker",
+            "args": {},
+            "lines": {
+              "ru": "Сталкер",
+              "en": "Stalker",
+              "es": "Acechador",
+              "fr": "Stalker"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.other_arts",
+            "args": {},
+            "lines": {
+              "ru": "Прочие",
+              "en": "Other",
+              "es": "Otros",
+              "fr": "Autre"
+            }
+          }
+        },
+        {
+          "type": "numeric",
+          "name": {
+            "type": "translation",
+            "key": "core.tooltip.info.weight",
+            "lines": {
+              "ru": "Вес",
+              "en": "Weight",
+              "es": "Peso",
+              "fr": "Poids"
+            }
+          },
+          "value": 0.2,
+          "formatted": {
+            "value": {
+              "ru": "0.2 кг",
+              "en": "0.2 kg",
+              "es": "0.2 kg",
+              "fr": "0.2 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.misc.chips.additional_stats_tip",
+        "args": {},
+        "lines": {
+          "ru": "Позволяет восстановить до 20% максимальной прочности оружия ранга Отмычка, Новичок или Сталкер",
+          "en": "Allows you to restore up to 20% of the maximum strength of weapons rank Otkrychka, Novichok or Stalker",
+          "es": "Le permite restaurar hasta el 20% de la fuerza máxima de las armas Otkrychka, Novichok o Stalker",
+          "fr": "Permet de restaurer jusqu'à 20% de la force maximale d'armes rang Otkrychka, Novitchok ou Stalker"
+        }
+      }
+    }
+  ]
+}

@@ -43,9 +43,9 @@
             "args": {},
             "lines": {
               "ru": "Ветеран",
-              "en": "Picklock",
-              "es": "Novato",
-              "fr": "Débutant"
+              "en": "Veteran",
+              "es": "Veterano",
+              "fr": "Vétéran"
             }
           }
         },
@@ -86,7 +86,17 @@
               "fr": "Poids"
             }
           },
-          "value": 0.2
+          "value": 0.2,
+          "formatted": {
+            "value": {
+              "ru": "0.2 кг",
+              "en": "0.2 kg",
+              "es": "0.2 kg",
+              "fr": "0.2 kg"
+            },
+            "nameColor": "838383",
+            "valueColor": "838383"
+          }
         }
       ]
     },
@@ -101,10 +111,10 @@
         "key": "item.misc.chips.additional_stats_tip",
         "args": {},
         "lines": {
-          "ru": "Оболочка артефакта, не накопившего достаточное количество аномальной энергии для того, чтобы быть артефактом какой‑то конкретной аномалии. При взаимодействии с уже сформировавшимся полем восстанавливает его целостность и способен сохранять заряд.",
-          "en": "The shell of an artifact that has not accumulated enough abnormal energy to be an artifact of a particular anomaly. When interacting with an already formed field, it restores its integrity and is able to retain its charge.",
-          "es": "La cáscara de un artefacto que no ha acumulado suficiente energía anómala para ser un artefacto de alguna anomalía en particular. Cuando interactúa con un campo ya formado, restaura su integridad y es capaz de mantener la carga.",
-          "fr": "La coquille d'un artefact qui n'a pas accumulé suffisamment d'énergie anormale pour être un artefact d'une anomalie particulière. Lors de l'interaction avec le champ déjà formé, il restaure son intégrité et est capable de conserver la charge."
+          "ru": "Позволяет восстановить до 20% максимальной прочности оружия ранга Отмычка, Новичок, Сталкер или Ветеран",
+          "en": "Allows you to restore up to 20% of the maximum strength of weapons rank Otkrychka, Novichok, Stalker or Veteran",
+          "es": "Le permite restaurar hasta el 20% de la fuerza máxima de las armas Otkrychka, Novichok, Stalker o Veteran",
+          "fr": "Vous permet de restaurer jusqu'à 20% de la force maximale des armes grade Otkrychka, Novitchok, Stalker ou vétéran"
         }
       }
     }
