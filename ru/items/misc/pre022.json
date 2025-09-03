@@ -1,0 +1,97 @@
+{
+  "id": "pre022",
+  "category": "misc",
+  "name": {
+    "type": "translation",
+    "args": {},
+    "lines": {
+      "ru": "Сезонный пропуск + 50 уровней",
+      "en": "Season Pass + 50 Levels",
+      "es": "Season Pass + 50 Niveles",
+      "fr": "Saison Pass + 50 Niveaux"
+    }
+  },
+  "color": "RANK_PICKLOCK",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.picklock",
+            "args": {},
+            "lines": {
+              "ru": "Отмычка",
+              "en": "Picklock",
+              "es": "Ratero",
+              "fr": "Crocheteur"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.undefined",
+            "args": {},
+            "lines": {
+              "ru": "Прочее",
+              "en": "Other",
+              "es": "Otros",
+              "fr": "Autre"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.misc.charcoal.additional_stats_tip",
+        "args": {},
+        "lines": {
+          "ru": "Сезонный пропуск + 50 уровней",
+          "en": "Season Pass + 50 Levels",
+          "es": "Season Pass + 50 Niveles",
+          "fr": "Saison Pass + 50 Niveaux"
+        }
+      }
+    }
+  ]
+}
