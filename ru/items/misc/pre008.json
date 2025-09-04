@@ -97,6 +97,29 @@
             "nameColor": "838383",
             "valueColor": "838383"
           }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.base_price",
+            "lines": {
+              "ru": "Базовая цена продажи",
+              "en": "Base selling price",
+              "es": "Precio de venta base",
+              "fr": "Prix de vente de base"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.tooltip.info.rubles",
+            "lines": {
+              "ru": "20000 руб.",
+              "en": "20000 rubles",
+              "es": "20000 rublos",
+              "fr": "20000 roubles"
+            }
+          }
         }
       ]
     },
