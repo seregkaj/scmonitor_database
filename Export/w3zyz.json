@@ -1,0 +1,14 @@
+{
+  "total": 1,
+  "prices": [
+    {
+      "amount": 1,
+      "price": 10000,
+      "time": "2024-12-20T21:41:43Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    }
+  ]
+}

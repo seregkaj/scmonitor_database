@@ -1,0 +1,185 @@
+{
+  "total": 3136,
+  "prices": [
+    {
+      "amount": 3,
+      "price": 150000,
+      "time": "2025-09-02T17:06:34Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 100000,
+      "time": "2025-08-29T23:38:28Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 2,
+      "price": 60000,
+      "time": "2025-08-28T20:09:47Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 150000,
+      "time": "2025-08-28T16:12:19Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 2,
+      "price": 100000,
+      "time": "2025-08-28T15:59:54Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 150000,
+      "time": "2025-08-27T23:36:54Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 150000,
+      "time": "2025-08-27T23:36:52Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 100000,
+      "time": "2025-08-27T15:39:34Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 100000,
+      "time": "2025-08-26T21:03:13Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 120000,
+      "time": "2025-08-26T06:26:12Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 120000,
+      "time": "2025-08-26T06:26:01Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 150000,
+      "time": "2025-08-25T08:19:26Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 199999,
+      "time": "2025-08-24T12:05:46Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 200000,
+      "time": "2025-08-24T03:13:12Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 1,
+      "price": 200000,
+      "time": "2025-08-23T08:33:25Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 1,
+      "price": 200000,
+      "time": "2025-08-22T19:31:32Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 2,
+      "price": 200000,
+      "time": "2025-08-22T15:08:25Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 300000,
+      "time": "2025-08-21T23:02:48Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 150000,
+      "time": "2025-08-20T12:11:40Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 3,
+      "price": 150000,
+      "time": "2025-08-20T03:02:22Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    }
+  ]
+}

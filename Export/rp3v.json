@@ -1,0 +1,23 @@
+{
+  "total": 2,
+  "prices": [
+    {
+      "amount": 1,
+      "price": 149999,
+      "time": "2020-03-26T14:33:53Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    },
+    {
+      "amount": 1,
+      "price": 499999,
+      "time": "2020-03-24T05:46:44Z",
+      "additional": {
+        "qlt": 0,
+        "ptn": null
+      }
+    }
+  ]
+}

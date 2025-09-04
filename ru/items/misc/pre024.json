@@ -1,0 +1,97 @@
+{
+  "id": "pre024",
+  "category": "misc",
+  "name": {
+    "type": "translation",
+    "args": {},
+    "lines": {
+      "ru": "Перегрузка",
+      "en": "Overloading",
+      "es": "Sobrecarga",
+      "fr": "Surchargement"
+    }
+  },
+  "color": "RANK_PICKLOCK",
+  "status": {
+    "state": "NON_DROP"
+  },
+  "infoBlocks": [
+    {
+      "type": "list",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "elements": [
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.rank",
+            "args": {},
+            "lines": {
+              "ru": "Ранг",
+              "en": "Rank",
+              "es": "Rango",
+              "fr": "Rang"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.rank.master",
+            "args": {},
+            "lines": {
+              "ru": "Мастер",
+              "en": "Master",
+              "es": "Maestro",
+              "fr": "Maître"
+            }
+          }
+        },
+        {
+          "type": "key-value",
+          "key": {
+            "type": "translation",
+            "key": "core.tooltip.info.category",
+            "args": {},
+            "lines": {
+              "ru": "Класс",
+              "en": "Class",
+              "es": "Clase",
+              "fr": "Classe"
+            }
+          },
+          "value": {
+            "type": "translation",
+            "key": "core.handbook.category.undefined",
+            "args": {},
+            "lines": {
+              "ru": "Прочее",
+              "en": "Other",
+              "es": "Otros",
+              "fr": "Autre"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": {
+        "type": "text",
+        "text": ""
+      },
+      "text": {
+        "type": "translation",
+        "key": "item.misc.charcoal.additional_stats_tip",
+        "args": {},
+        "lines": {
+          "ru": "Перегрузка – это способ ускорить прокачку Сезонного Пропуска за счёт увеличенной награды при выполнении заданий, каждая перегрузка даёт дополнительные 250 очков Сезонного Пропуска за первые два этапа ежедневных наград.",
+          "en": "Overloading is a way to speed up the Season Pass by increasing the reward for completing tasks, each overload yielding an additional 250 Season Pass points in the first two stages of the daily awards.",
+          "es": "La sobrecarga es una manera de acelerar el Paso de la Temporada aumentando la recompensa para completar tareas, cada sobrecarga que da un adicional 250 puntos Season Pass en las dos primeras etapas de los premios diarios.",
+          "fr": "La surcharge est un moyen d'accélérer le Season Pass en augmentant la récompense pour l'achèvement des tâches, chaque surcharge donnant 250 points de Season Pass supplémentaires dans les deux premières étapes des prix quotidiens."
+        }
+      }
+    }
+  ]
+}
